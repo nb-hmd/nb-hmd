@@ -3,7 +3,7 @@
 🎓 I'm a passionate Data Science student exploring the endless possibilities of data.  
 I enjoy transforming raw numbers into meaningful stories through analytics, visualization, and machine learning.
 
-### Skills & Tools
+### Skills & Tools 
 - **Data Analysis:** NumPy, Pandas  
 - **Data Visualization:** Matplotlib, Seaborn, Plotly  
 - **NLP Engineering:** Text preprocessing, sentiment analysis, transformers  
