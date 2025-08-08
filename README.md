@@ -1,25 +1,29 @@
-- 👋 Hi there, I'm Aneeb Ahmed user name is @nb-hmd.
-I am a passionate student pursuing a Bachelor's degree in Data Science. My excitement for the field drives me to explore various aspects of data science, including:
-- Data Analysis
-- Data Visualization
-- Natural Language Processing (NLP) Engineering
-- Machine Learning (ML) Engineering
+# Hi, I'm Aneeb Ahmed 👋
 
-Interests
-- 📊 Data Analyst: I love analyzing data to extract meaningful insights and trends.
-- 📈 Data Visualization: Creating visual representations of data to communicate findings effectively.
-- 🔍 NLP Engineer: Working with natural language data to develop models and applications.
-- 🤖 ML Engineer: Building and deploying machine learning models to solve complex problems.
+🎓 I'm a passionate Data Science student exploring the endless possibilities of data.  
+I enjoy transforming raw numbers into meaningful stories through analytics, visualization, and machine learning.
 
-Goals
-- 🌱 Currently, I am learning advanced techniques in Machine Learning and Data Analyst.
-- 👯 I am looking to collaborate on innovative data science projects that solve real-world problems.
+## 🔧 Skills & Tools
+- **Data Analysis:** NumPy, Pandas  
+- **Data Visualization:** Matplotlib, Seaborn, Plotly  
+- **NLP Engineering:** Text preprocessing, sentiment analysis, transformers  
+- **Machine Learning:** scikit-learn, model building & deployment  
 
-Get in Touch
-- 📫 You can reach me at: xyzz@outlook.com or rajahafeez4647@gmail.com 
+## 🎯 Interests
+- 📊 **Data Analysis:** Extracting insights and trends from data  
+- 📈 **Data Visualization:** Turning complex data into clear, impactful visuals  
+- 🔍 **Natural Language Processing:** Working with human language to create AI applications  
+- 🤖 **Machine Learning:** Designing models to solve real-world problems  
 
-Fun Fact
-- ✨ I am passionate about uncovering insights from data and turning them into actionable strategies.
+## 🌱 Current Goals
+- Master advanced machine learning techniques  
+- Collaborate on innovative data science projects that have real-world impact  
+
+## 📫 Get in Touch
+- **Email:** xyzz@outlook.com | rajahafeez4647@gmail.com  
+
+
+💡 **Fun Fact:** I believe every dataset has a hidden story — my job is to find it and make it heard!
 
 
 <!---
