@@ -20,7 +20,7 @@ I enjoy transforming raw numbers into meaningful stories through analytics, visu
 - Collaborate on innovative data science projects that have real-world impact  
 
 ###  Get in Touch
-- **Email:** xyzz@outlook.com | rajahafeez4647@gmail.com  
+- **Email:** aneebahmed11@outlook.com | aneebahmed91@gmail.com  
 
 
  **Fun Fact:** I believe every dataset has a hidden story — my job is to find it and make it heard!
