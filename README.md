@@ -116,17 +116,8 @@ NLP pipeline for classifying tweet sentiment using TF-IDF vectorization and mach
 
 ---
 
-*Always building. Open to AI/ML engineering opportunities.* 
+*Always building. Open to AI/ML engineering opportunities.*  
 
-###  Interests
-- 📊 **Data Analysis:** Extracting insights and trends from data  
-- 📈 **Data Visualization:** Turning complex data into clear, impactful visuals  
-- 🔍 **Natural Language Processing:** Working with human language to create AI applications  
-- 🤖 **Machine Learning:** Designing models to solve real-world problems  
-
-###  Current Goals
-- Master advanced machine learning techniques  
-- Collaborate on innovative data science projects that have real-world impact  
-
+---
 
  **Fun Fact:** I believe every dataset has a hidden story — my job is to find it and make it heard!
