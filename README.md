@@ -1,6 +1,6 @@
 # Hi, I'm Aneeb Ahmed 👋
 
-**AI & ML Engineer | Full-Stack Developer | Data Science Student**
+**AI & ML Engineer | Data Science Student**
 
 📧 aneebahmed91@gmail.com | 📧 aneebahmed11@outlook.com | 📍 Taxila Cantt, Pakistan
 
