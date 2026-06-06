@@ -116,7 +116,7 @@ NLP pipeline for classifying tweet sentiment using TF-IDF vectorization and mach
 
 ---
 
-*Always building. Open to AI/ML engineering opportunities.*  
+*Always building. Open to AI/ML engineering & Data Science opportunities.*  
 
 ---
 
