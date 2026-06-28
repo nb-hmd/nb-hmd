@@ -8,9 +8,9 @@
 
 ## 🧠 About Me
 
-I'm an AI & Machine Learning engineer passionate about building intelligent systems that turn complex problems into automated, data-driven solutions. Currently a final-year Data Science student at[...]
+I'm an AI & Machine Learning engineer passionate about building intelligent systems that turn complex problems into automated, data-driven solutions. Currently a final-year Data Science student at The University of Haripur, Haripur Kpk, I focus on developing end-to-end systems that combine machine learning, computer vision, and natural language processing to create real-world impact.
 
-My skillset covers full-stack AI development — data preprocessing and analysis, machine learning model design and optimization, computer vision, NLP engineering, and intelligent automation. I bu[...]
+My skillset covers full-stack AI development — data preprocessing and analysis, machine learning model design and optimization, computer vision, NLP engineering, and intelligent automation. I build production-ready solutions using Python, JavaScript/TypeScript, React, Node.js, and PostgreSQL. I have a particular interest in multi-agent AI systems built with LangGraph, AI-powered automation workflows, and intelligent agents capable of dynamic decision-making.
 
 ---
 
@@ -19,64 +19,65 @@ My skillset covers full-stack AI development — data preprocessing and analysis
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | Python, JavaScript, TypeScript, SQL |
-| **AI / Agentic** | LangGraph, LangChain, OpenAI API, RAG (ChromaDB), Whisper (speech-to-text), pyannote.audio (speaker diarization) |
+| **AI / Agentic** | LangGraph, LangChain, OpenAI API, RAG (ChromaDB), Whisper (speech-to-text) |
 | **ML** | Scikit-learn, TensorFlow/Keras, TF-IDF, NLP, Sentiment Analysis, Hugging Face Transformers |
 | **Computer Vision** | OpenCV, YOLOv8, OpenCLIP, BLIP, MediaPipe |
-| **Web / Backend** | React, Node.js, Express, Flask, REST APIs, WebSocket, WebRTC |
-| **Databases** | PostgreSQL, SQLite, MySQL, Redis, ChromaDB (vector DB) |
-| **Scraping & Automation** | Playwright, Selenium, BeautifulSoup, smtplib, FFmpeg, pydub |
-| **Tools & Infra** | VSCode, Jupyter, Google Colab, Git, Gradio, Matplotlib, Seaborn, Docker, Celery, Redis |
+| **Web / Backend** | React, Node.js, Express, Flask, REST APIs, WebSocket, Streamlit |
+| **Databases** | PostgreSQL, SQLite, MySQL, ChromaDB (vector DB) |
+| **Scraping & Automation** | Playwright, Selenium, BeautifulSoup, smtplib |
+| **Data & Visualization** | Pandas, Plotly, Matplotlib, Seaborn |
+| **Tools & Infra** | VSCode, Jupyter, Google Colab, Git, Gradio, Matplotlib, Seaborn |
 
 ---
 
 ## 🚀 Projects
 
 ### 📝 [An AI-Powered Minutes of Meeting (MoM) Management System](https://github.com/nb-hmd/An-AI-Powered-Minutes-of-Meeting-MoM-Management-System)
-> Python · Flask · React · Whisper · pyannote.audio · ChromaDB · PostgreSQL · FFmpeg
+> Streamlit · PostgreSQL · OpenAI GPT-4o-mini · Whisper · Plotly
 
-End-to-end meeting assistant that ingests or records meeting audio/video, performs speech-to-text and speaker diarization, and generates concise, timestamped minutes with extracted action items and decisions. Supports searchable transcripts and RAG-enabled contextual Q&A over past meetings, automated follow-ups, and highlights. Built for scalable deployment with background workers, Docker, and vector search for fast retrieval.
+Intelligent meeting documentation platform that automates MoM generation with real-time audio recording and live speech-to-text transcription. Includes AI-powered extraction of agenda, decisions, and action items, comprehensive meeting analytics, full MoM management with PDF/DOCX export, and role-based access control.
 
 ---
 
 ### 🤖 [Multi-Agent AI System for Automated Insurance Support](https://github.com/nb-hmd/A-Multi-Agent-AI-System-for-Automated-Insurance-Support)
 > LangGraph · Flask · React · ChromaDB · SQLite
 
-A fully automated AI customer support system with 7 specialized agents handling policy inquiries, claims processing, billing, and FAQs. Features intent classification, ChromaDB RAG pipeline, senti[...]
+A fully automated AI customer support system with 7 specialized agents handling policy inquiries, claims processing, billing, and FAQs. Features intent classification, ChromaDB RAG pipeline, sentiment-aware escalation, voice/image processing, and a real-time analytics dashboard.
 
 ---
 
 ### 📊 [AI Leads Generation System](https://github.com/nb-hmd/AI-Leads-Generation-System)
 > Python · Playwright · GPT-4o-mini · Gradio · smtplib
 
-Scrapes 50+ business leads from Google Maps, analyzes prospect websites with GPT-4o-mini, auto-generates personalized outreach emails, and runs Gmail campaigns — all from a single Gradio dashboa[...]
+Scrapes 50+ business leads from Google Maps, analyzes prospect websites with GPT-4o-mini, auto-generates personalized outreach emails, and runs Gmail campaigns — all from a single Gradio dashboard with real-time analytics.
 
 ---
 
 ### 🎥 [Advanced Video Event Detection & Extraction](https://github.com/nb-hmd/Advanced-Video-Event-Detection-Extraction)
 > OpenCLIP · BLIP · YOLOv8 · MediaPipe · Python
 
-Multi-modal AI platform for natural language video search, event detection, and automated clip extraction. Combines CLIP-based semantic matching, BLIP captioning, YOLO object detection, and MediaP[...]
+Multi-modal AI platform for natural language video search, event detection, and automated clip extraction. Combines CLIP-based semantic matching, BLIP captioning, YOLO object detection, and MediaPipe for real-world video understanding.
 
 ---
 
 ### 🏭 [HIT Ticket Management System](https://github.com/nb-hmd/HIT-Ticket-Management-System)
 > TypeScript · React · Node.js · Express · PostgreSQL
 
-Enterprise-grade multi-factory ticket management platform built and deployed during my internship at Heavy Industries Taxila. Supports multi-role workflows (Admin / Support Staff / Employee), appr[...]
+Enterprise-grade multi-factory ticket management platform built and deployed during my internship at Heavy Industries Taxila. Supports multi-role workflows (Admin / Support Staff / Employee), approval chains, real-time status tracking, and file attachments.
 
 ---
 
 ### 📉 [Customer Churn Prediction System](https://github.com/nb-hmd/Customer-Churn-Prediction-System)
 > Python · Scikit-learn · Pandas · ipywidgets
 
-End-to-end ML pipeline on 500,000+ customer records with EDA, feature engineering, Logistic Regression and KNN modeling, hyperparameter tuning, and an interactive explainable prediction dashboard [...]
+End-to-end ML pipeline on 500,000+ customer records with EDA, feature engineering, Logistic Regression and KNN modeling, hyperparameter tuning, and an interactive explainable prediction dashboard with ROC-AUC and Confusion Matrix evaluation.
 
 ---
 
 ### 📂 [PSX Financial Reports Scraper](https://github.com/nb-hmd/Scrape-PSX-Past-12-Year-Reports)
 > Python · Selenium · BeautifulSoup · SQLite
 
-Scrapes and organizes 12 years of annual and quarterly financial reports for 241+ Shariah-compliant companies listed on the Pakistan Stock Exchange. Anti-detection measures, resumable sessions, an[...]
+Scrapes and organizes 12 years of annual and quarterly financial reports for 241+ Shariah-compliant companies listed on the Pakistan Stock Exchange. Anti-detection measures, resumable sessions, and SQLite tracking for large-scale data collection.
 
 ---
 
