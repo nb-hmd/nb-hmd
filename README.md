@@ -2,7 +2,7 @@
 
 **AI & ML Engineer | Data Science Student**
 
-📧 aneebahmed91@gmail.com | 📧 aneebahmed11@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aneeb-ahmed-a8189b388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 📍 Taxila Cantt, Pakistan
+📧 aneebahmed91@gmail.com | 📧 aneebahmed11@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aneeb-ahmed-a8189b388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 📍 Islamabad, Pakistan
 
 ---
 
