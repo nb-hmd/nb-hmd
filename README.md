@@ -2,7 +2,7 @@
 
 **AI & ML Engineer | Data Science Student**
 
-📧 aneebahmed91@gmail.com | 📧 aneebahmed11@outlook.com | 📍 Taxila Cantt, Pakistan
+📧 aneebahmed91@gmail.com | 📧 aneebahmed11@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aneeb-ahmed-a8189b388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 📍 Taxila Cantt, Pakistan
 
 ---
 
@@ -31,6 +31,20 @@ My skillset covers full-stack AI development — data preprocessing and analysis
 ---
 
 ## 🚀 Projects
+
+### 🌆 [HeatShield Agent: Autonomous Urban Heat Resilience System](https://github.com/nb-hmd/HeatShield-Agent-Autonomous-Urban-Heat-Resilience-System)
+> Python · LLMs · OpenStreetMap · Census ACS Data
+
+Transforms plain-language municipal directives into comprehensive 2-metre street-level thermal audits and equity-focused analysis. Integrates OpenStreetMap asset ranking, Census ACS scoring, and automated board-ready funding memos for climate resilience planning.
+
+---
+
+### 💰 [Freight Rate Predictor](https://github.com/nb-hmd/Freight-Rate-Predictor)
+> Python · XGBoost · LightGBM · Machine Learning
+
+ML pipeline predicting truck freight rates with high precision using an XGBoost + LightGBM ensemble. Features 40+ engineered distance, geographic, and equipment indicators, achieving $126 MAE and 0.90 R² with integrated daily rate forecasting.
+
+---
 
 ### 📝 [An AI-Powered Minutes of Meeting (MoM) Management System](https://github.com/nb-hmd/An-AI-Powered-Minutes-of-Meeting-MoM-Management-System)
 > Streamlit · PostgreSQL · OpenAI GPT-4o-mini · Whisper · Plotly
