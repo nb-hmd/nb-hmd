@@ -125,7 +125,7 @@ NLP pipeline for classifying tweet sentiment using TF-IDF vectorization and mach
 
 ## 🎓 Education & Certifications
 
-- 🎓 **B.S. Data Science** — University of Haripur (Sep 2022 – Jun 2026) | CGPA: 3.23/4.0
+- 🎓 **B.S. Data Science** — University of Haripur (Sep 2022 – Jun 2026) | CGPA: 3.30/4.0
 - 📜 IBM Data Science Professional Certificate — Coursera
 - 📜 Python Developer Certificate — Sololearn
 
