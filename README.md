@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm an AI & Machine Learning engineer passionate about building intelligent systems that turn complex problems into automated, data-driven solutions. Currently a final-year Data Science student at The University of Haripur, Haripur Kpk, I focus on developing end-to-end systems that combine machine learning, computer vision, and natural language processing to create real-world impact.
+I'm an AI & Machine Learning engineer passionate about building intelligent systems that turn complex problems into automated, data-driven solutions. A fresh graduate Data Science from the University of Haripur, Haripur Kpk, I focus on developing end-to-end systems that combine machine learning, computer vision, and natural language processing to create real-world impact.
 
 My skillset covers full-stack AI development — data preprocessing and analysis, machine learning model design and optimization, computer vision, NLP engineering, and intelligent automation. I build production-ready solutions using Python, JavaScript/TypeScript, React, Node.js, and PostgreSQL. I have a particular interest in multi-agent AI systems built with LangGraph, AI-powered automation workflows, and intelligent agents capable of dynamic decision-making.
 
